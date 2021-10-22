@@ -1,0 +1,59 @@
+.content
+{
+    display: flex;
+    float: left;
+    width: 1500px;
+    height: 100%;
+}
+
+.chart
+{
+    margin-top: 22px;
+    height: 380px;
+    width: 1500px;
+    background-color: #121212;
+    padding: 20px;
+    border-radius: 16px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+}
+
+.cards
+{
+    padding: 30px;
+}
+
+.cards-line
+{
+    display: inline-flex;
+}
+
+
+.users
+{
+    display: flex;
+    width: 1500px;
+    height: 360px;
+}
+
+.user-list
+{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: #121212;
+    height: 89%;
+    width: 900px;
+    margin-left: 40px;
+    border-radius: 16px;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+}
+
+.orders
+{
+    width: 36%;
+    margin-left: 30px;
+    border-radius: 16px;
+    height: 100%;
+    background-color: #121212;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+}

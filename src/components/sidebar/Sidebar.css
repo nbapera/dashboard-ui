@@ -1,0 +1,48 @@
+.sidebar
+{
+    padding: 0 30px;
+    height: 100vh;
+    min-width: 300px;
+    background-color: #121212;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 5px 10px;
+    float:  left;
+}
+
+.sidebar-logo
+{
+    font-size: 23px;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo span
+{
+    color: #3aa5ec;
+}
+
+.sidebar-item
+{
+    cursor: pointer;
+    border-radius: 16px;
+    font-size: 21px;
+    padding: 20px 25px;
+    display: flex;
+    align-items: center;
+    font-weight: 600;
+    transition: color 0.3s ease 0s;
+    margin-bottom: 13px;
+}
+
+.sidebar-item:hover
+{
+    background-color: #3aa5ec;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.sidebar-icon
+{
+    margin-right: 20px;
+}
