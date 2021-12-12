@@ -1,8 +1,8 @@
-### Dashboard UI
+# Dashboard UI
 
 ## Admin dashboard built in ReactJS.
 
-## Run locally
+### Run locally
     git clone https://github.com/nbapera/dashboard-ui
     cd dashboard-ui
     npm install
